@@ -1,4 +1,4 @@
-## Hey, I'm Hemanshu👋
+# Hey, I'm Hemanshu👋
 
 # 💫 About Me:
 Hey there! Hemanshu Sonar Follow a Curious soul as well a passionate Full Stack Developer. At present I am pursuing my Bachelor of Engineering (B.E) Computer Engineering from 'A. P. Shah Institute of Technology' so it's always been a learning initiative till now!<br><br>Software Engineer | Frontend, Backend, and Mobile App Developer (Trainee) | Open to Internships & Entry-Level Positions | Willing to Learn, Write Code, and Work Together.
