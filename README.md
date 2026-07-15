@@ -96,7 +96,7 @@ AI-powered interview preparation platform with resume analysis, mock interviews,
 - AI-driven mock interview flow via OpenRouter's GPT-4o-mini
 - Custom "editorial" design system across the whole app
 
-[![Repo](https://img.shields.io/badge/View-Repositories-1E90FF?style=for-the-badge&logo=github&logoColor=black&labelColor=000000)]([https://github.com/HemanshuSonar?tab=repositories](https://github.com/HemanshuSonar/Elevo))
+[![Repo](https://img.shields.io/badge/View-Repositories-1E90FF?style=for-the-badge&logo=github&logoColor=black&labelColor=000000)](https://github.com/HemanshuSonar/Elevo)
 
 <br/>
 
@@ -110,7 +110,7 @@ Flask-based marketplace connecting street food vendors directly with wholesale s
 - Restructured for professional GitHub presentation (clean packages, organized tests)
 - 71/71 tests passing, production-grade README
 
-[![Repo](https://img.shields.io/badge/View-Repositories-1E90FF?style=for-the-badge&logo=github&logoColor=black&labelColor=000000)]([https://github.com/HemanshuSonar?tab=repositories](https://github.com/HemanshuSonar/SetuMitra))
+[![Repo](https://img.shields.io/badge/View-Repositories-1E90FF?style=for-the-badge&logo=github&logoColor=black&labelColor=000000)](https://github.com/HemanshuSonar/SetuMitra)
 
 <br/>
 
