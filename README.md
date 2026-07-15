@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HemanshuSonar&label=Profile%20Views&color=1E90FF&style=flat-square" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/HemanshuSonar?label=Followers&style=flat-square&color=1E90FF&labelColor=000000" alt="Followers"/>
-  <a href="https://www.linkedin.com/in/hemanshusonar77"><img src="https://img.shields.io/badge/LinkedIn-Connect-FFA500?style=flat-square&logo=linkedin&logoColor=black&labelColor=000000" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/hemanshusonar"><img src="https://img.shields.io/badge/LinkedIn-Connect-FFA500?style=flat-square&logo=linkedin&logoColor=black&labelColor=000000" alt="LinkedIn"/></a>
   <a href="mailto:hemanshusonar77@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-FFA500?style=flat-square&logo=gmail&logoColor=black&labelColor=000000" alt="Email"/></a>
 </p>
 
@@ -96,7 +96,7 @@ AI-powered interview preparation platform with resume analysis, mock interviews,
 - AI-driven mock interview flow via OpenRouter's GPT-4o-mini
 - Custom "editorial" design system across the whole app
 
-[![Repo](https://img.shields.io/badge/View-Repositories-1E90FF?style=for-the-badge&logo=github&logoColor=black&labelColor=000000)](https://github.com/HemanshuSonar?tab=repositories)
+[![Repo](https://img.shields.io/badge/View-Repositories-1E90FF?style=for-the-badge&logo=github&logoColor=black&labelColor=000000)]([https://github.com/HemanshuSonar?tab=repositories](https://github.com/HemanshuSonar/Elevo))
 
 <br/>
 
@@ -110,7 +110,7 @@ Flask-based marketplace connecting street food vendors directly with wholesale s
 - Restructured for professional GitHub presentation (clean packages, organized tests)
 - 71/71 tests passing, production-grade README
 
-[![Repo](https://img.shields.io/badge/View-Repositories-1E90FF?style=for-the-badge&logo=github&logoColor=black&labelColor=000000)](https://github.com/HemanshuSonar?tab=repositories)
+[![Repo](https://img.shields.io/badge/View-Repositories-1E90FF?style=for-the-badge&logo=github&logoColor=black&labelColor=000000)]([https://github.com/HemanshuSonar?tab=repositories](https://github.com/HemanshuSonar/SetuMitra))
 
 <br/>
 
@@ -165,7 +165,7 @@ Flask-based marketplace connecting street food vendors directly with wholesale s
 
 <p align="center">
   <a href="mailto:hemanshusonar77@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FFA500" /></a>
-  <a href="https://www.linkedin.com/in/hemanshusonar77"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=1E90FF" /></a>
+  <a href="https://www.linkedin.com/in/hemanshusonar"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=1E90FF" /></a>
 </p>
 
 <br/>
