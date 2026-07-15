@@ -1,24 +1,21 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=24&duration=3000&pause=1200&color=FFA500&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Hemanshu+%F0%9F%91%8B;Full-Stack+Developer;Building+Elevo%2C+SetuMitra+%26+VerifAi;Turning+ideas+into+shipped+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&duration=3000&pause=1200&color=FFA500&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Hemanshu+%F0%9F%91%8B;Full-Stack+Developer;Building+Elevo%2C+SetuMitra+%26+VerifAi;Turning+ideas+into+shipped+code" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HemanshuSonar&label=Profile%20Views&color=1E90FF&style=flat-square" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/HemanshuSonar?label=Followers&style=flat-square&color=1E90FF&labelColor=000000" alt="Followers"/>
-  <a href="https://www.linkedin.com/in/hemanshusonar"><img src="https://img.shields.io/badge/LinkedIn-Connect-FFA500?style=flat-square&logo=linkedin&logoColor=black&labelColor=000000" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/hemanshusonar77"><img src="https://img.shields.io/badge/LinkedIn-Connect-FFA500?style=flat-square&logo=linkedin&logoColor=black&labelColor=000000" alt="LinkedIn"/></a>
   <a href="mailto:hemanshusonar77@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-FFA500?style=flat-square&logo=gmail&logoColor=black&labelColor=000000" alt="Email"/></a>
 </p>
 
 <br/>
 
-<table align="center">
-<tr>
-<td width="210" valign="top" align="center">
-<img src="https://github.com/HemanshuSonar.png" width="190" style="border-radius:10px" alt="Hemanshu Sonar"/>
-<br/><br/>
-<code>~ building things that break, then fixing them</code>
-</td>
-<td valign="top">
+<p align="center">
+  <img src="https://github.com/HemanshuSonar.png" width="140" style="border-radius:10px" alt="Hemanshu Sonar"/>
+  <br/><br/>
+  <code>~ building things that break, then fixing them</code>
+</p>
 
 ```ini
 HemanshuSonar@github
@@ -30,14 +27,10 @@ Languages  : Java, JavaScript, TypeScript, Python, PHP
 Frontend   : React.js, HTML5, CSS3
 Backend    : Node.js, Express, Flask
 Database   : MySQL, MongoDB, SQLite
-Cloud      : AWS Academy — Data Engineering
+Cloud      : AWS Academy - Data Engineering
 Mobile     : Android (Java)
 Tools      : Git, GitHub, VS Code
 ```
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -93,11 +86,7 @@ Most days you'll find me somewhere between `build.log` and a Stack Overflow tab.
 
 ## `~$ ls ./featured-projects`
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 Elevo [Ongoing]
+### 🧠 Elevo `[Ongoing]`
 AI-powered interview preparation platform with resume analysis, mock interviews, and payment-gated premium features.
 
 **Stack:** React · Redux · Node.js/Express · Firebase · Razorpay · OpenRouter (GPT-4o-mini)
@@ -109,8 +98,7 @@ AI-powered interview preparation platform with resume analysis, mock interviews,
 
 [![Repo](https://img.shields.io/badge/View-Repositories-1E90FF?style=for-the-badge&logo=github&logoColor=black&labelColor=000000)](https://github.com/HemanshuSonar?tab=repositories)
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
 ### 🍲 SetuMitra
 Flask-based marketplace connecting street food vendors directly with wholesale suppliers.
@@ -124,24 +112,19 @@ Flask-based marketplace connecting street food vendors directly with wholesale s
 
 [![Repo](https://img.shields.io/badge/View-Repositories-1E90FF?style=for-the-badge&logo=github&logoColor=black&labelColor=000000)](https://github.com/HemanshuSonar?tab=repositories)
 
-</td>
-</tr>
-</table>
-
 <br/>
 
 ## `~$ tail -f build.log`
 
 ```diff
-+ [DONE]    SetuMitra — 71/71 tests passing, security issues resolved
-+ [DONE]    Internship-Assignments — V2V EdTech deliverables submitted
-+ [DONE]    AWS Academy — Data Engineering certification
-+ [DONE]    Netflix-Clone — frontend UI clone shipped
-+ [DONE]    Learnex (NikhilRW) — contributing to mobile learning app
-+ [DONE]   VerifAi — AI-powered misinformation detection platform
-  [BUILD]   DSA-Prep — ongoing problem-solving practice
-
-- [PENDING] Elevo — AI-powered interview preparation platform.
++ [DONE]    SetuMitra - 71/71 tests passing, security issues resolved
++ [DONE]    Internship-Assignments - V2V EdTech deliverables submitted
++ [DONE]    AWS Academy - Data Engineering certification
++ [DONE]    Netflix-Clone - frontend UI clone shipped
++ [DONE]    Learnex (NikhilRW) - contributing to mobile learning app
++ [DONE]    VerifAi - AI-powered misinformation detection platform
+  [BUILD]   DSA-Prep - ongoing problem-solving practice
+- [PENDING] Elevo - AI-powered interview preparation platform
 ```
 
 <br/>
@@ -150,8 +133,8 @@ Flask-based marketplace connecting street food vendors directly with wholesale s
 
 | Period | Role | Notes |
 |---|---|---|
-| 2 months | Android Development Intern — **V2V EdTech LLP** | Built and shipped a Java-based Android application |
-| 3 months | **AWS Academy** — Data Engineering | Completed AICTE-affiliated Data Engineering training |
+| 2 months | Android Dev Intern — **V2V EdTech LLP** | Shipped a Java-based Android app |
+| 3 months | **AWS Academy** — Data Engineering | AICTE-affiliated training |
 
 <br/>
 
@@ -160,19 +143,19 @@ Flask-based marketplace connecting street food vendors directly with wholesale s
 ```json
 {
   "building": [
-    "Elevo — AI interview prep platform",
-    "SetuMitra — vendor-supplier marketplace",
-    "VerifAi — misinformation detection platform"
+    "Elevo - AI interview prep platform",
+    "SetuMitra - vendor-supplier marketplace",
+    "VerifAi - misinformation detection platform"
   ],
   "learning": [
     "System design fundamentals",
     "AWS data engineering",
-    "LLM integration patterns for production apps"
+    "LLM integration patterns"
   ],
   "practicing": [
-    "DSA — SDE-style interview problems"
+    "DSA - SDE-style interview problems"
   ],
-  "looking_for": ["Software Development Internships", "Full-Stack roles", "Open Source collaborations"]
+  "looking_for": ["SDE Internships", "Full-Stack roles", "Open Source"]
 }
 ```
 
